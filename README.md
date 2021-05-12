@@ -1,4 +1,6 @@
-# G2A Pay module for WooCommerce
+# ⚠ This repository is now DEPRECATED and will be deleted after 1st of August 2021. We recommend to use [Zen](https://www.zen.com/) in new projects.
+
+## G2A Pay module for WooCommerce
 
 WooCommerce - a customizable eCommerce platform designed for establishing trendy online businesses. Thanks to its flexibility and access to numerous free WordPress extensions, WooCommerce powers 39% of all online stores and is the most popular eCommerce platform on the web. The free plugin allows online merchants to seamlessly integrate with WordPress and sell their products easily.
 
